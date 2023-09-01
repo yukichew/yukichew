@@ -32,10 +32,6 @@ I'm a second-year software engineering student with a passion for creating web a
 
 Feel free to reach out to me via [email](mailto:yukichew0803@gmail.com).
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yukichew&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukichew&layout=compact)](https://github.com/yukichew)
-
 Thanks for visiting my GitHub profile! 😄
 
 
