@@ -32,7 +32,7 @@ I'm a second-year software engineering student with a passion for creating web a
 
 Feel free to reach out to me via [email](mailto:yukichew0803@gmail.com).
 
-Thanks for visiting my GitHub profile! 😄
+Thanks for visiting my GitHub profile! 🫶🏻
 
 
 <!--
