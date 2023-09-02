@@ -14,7 +14,6 @@ I'm a second-year software engineering student with a passion for creating web a
 - **Mobile Development:** React Native
 - **Version Control:** Git, GitHub
 - **Data Analysis:** R, Microsoft Power BI
-- **Frameworks:** React.js for web development
 - **Database:** MySQL, Microsoft SQL Server
 - **Development Tools:** Visual Studio Code, Android Studio, XCode
 
