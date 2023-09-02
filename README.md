@@ -15,7 +15,7 @@ I'm a second-year software engineering student with a passion for creating web a
 - **Version Control:** Git, GitHub
 - **Data Analysis:** R (for data analysis and visualization)
 - **Frameworks:** React.js for web development
-- **Database:** MySQL, Microsoft SQL Server, Firebase
+- **Database:** MySQL, Microsoft SQL Server
 - **Development Tools:** Visual Studio Code, Android Studio, XCode
 
 ### 🌱 I’m currently learning
