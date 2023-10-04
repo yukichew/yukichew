@@ -9,7 +9,7 @@ I'm a second-year software engineering student with a passion for developing web
 
 ### 🛠️ Skills
 
-- **Programming Languages:** Java, JavaScript, Python, PHP
+- **Programming Languages:** Java, JavaScript, Python, PHP, C++
 - **Web Development:** HTML, CSS, React, Bootstrap, Tailwind CSS
 - **Mobile Development:** React Native, Kotlin
 - **Version Control:** Git, GitHub
