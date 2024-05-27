@@ -1,10 +1,6 @@
 ### Hi there, I'm Yuki. 👋🏻
 
-I'm a second-year software engineering student passionate about developing web and mobile applications. 
-
-🚀 **About Me:**
-- 🎓 Currently pursuing my degree in software engineering at Asia Pacific University.
-- 🌐 Web and mobile app development enthusiast.
+I'm a second-year software engineering student at Asia Pacific University who passionate about developing web and mobile applications. 
 
 ### 🛠️ Skills
 
